@@ -1,9 +1,9 @@
 <h1>Kahoot AntiBot</h1>
-<p>This script uses a "Levenshtein distance" formula, this compares usernames to determine similarity, taken from <a href="https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely">Stackoverflow.com</a></p>
+<p>This script uses a "Levenshtein distance" formula, this compares usernames to determine similarity, taken from <a href="https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely">Stackoverflow.com</a> DISCLAIMER: this wont work if all the bots have completely different useranes, but most bots just do bot-1, bot-2 etc.</p>
 <hr>
 <b><h1>INSTALLATION</h1></b>
 <ol>
-  <li>Make sure you have a script manager such as https://www.tampermonkey.net/</li>
+  <li>Make sure you have installeda script manager such as https://www.tampermonkey.net/ in your brower <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">(Chrome Extension)</a>(</li>
   <li>Come back to this page and press the green install button.</li>
   <img src="https://cdn.discordapp.com/attachments/552323024083484700/665721774993834024/Screen_Shot_2020-01-11_at_4.59.39_PM.png" height="100" width="200">
   <li>Your script manager should ask to install it. Press install.</li>
