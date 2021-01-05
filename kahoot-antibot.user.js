@@ -4,7 +4,7 @@
 // @version      2.11.0
 // @icon         https://cdn.discordapp.com/icons/641133408205930506/31c023710d468520708d6defb32a89bc.png
 // @description  Remove all bots from a kahoot game.
-// @author       theusaf
+// @author       theusaf (adapted by @nial538)
 // @copyright    2019-2020, Daniel Lau (https://github.com/theusaf/kahoot-antibot)
 // @match        *://play.kahoot.it/*
 // @exclude      *://play.kahoot.it/v2/assets/*
@@ -47,7 +47,7 @@ window.page.onload = ()=>{
         const container = document.createElement("div");
         container.id = "antibotwtr";
         const waterMark = document.createElement("p");
-        waterMark.innerHTML = "v2.11.0 @theusaf";
+        waterMark.innerHTML = "v2.11.0 @theusaf + @nial538";
         const botText = document.createElement("p");
         botText.innerHTML = "0";
         botText.id = "killcount";
