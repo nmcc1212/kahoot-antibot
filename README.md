@@ -17,7 +17,7 @@ INSTALLATION
 (https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/kahoot-antibot.user.js)
 
 4. When the tampermonkey extensions opens, press install, the tab should now close
-<img>https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/Screenshot%202021-01-05%20at%2019.13.42.png </img>
+![TamperMonkey install](https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/Screenshot%202021-01-05%20at%2019.13.42.png)
 5. Open a kahoot game. The antibot should be installed if you see some text that says "v2.x.x @theusaf at the bottom right.
 
 6. Have fun with 
