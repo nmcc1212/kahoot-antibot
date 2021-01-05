@@ -1,5 +1,5 @@
 <h1>Kahoot AntiBot</h1>
-<p>This script uses a "Levenshtein distance" formula to determine similarity, taken from <a href="https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely">Stackoverflow.com</a></p>
+<p>This script uses a "Levenshtein distance" formula, this compares usernames to determine similarity, taken from <a href="https://stackoverflow.com/questions/10473745/compare-strings-javascript-return-of-likely">Stackoverflow.com</a></p>
 <hr>
 <b><h1>INSTALLATION</h1></b>
 <ol>
