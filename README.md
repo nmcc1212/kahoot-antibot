@@ -19,8 +19,7 @@ INSTALLATION
 ![TamperMonkey install](https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/Screenshot%202021-01-05%20at%2019.13.42.png)
 5. Open a kahoot game. The antibot should be installed if you see some text that says "v2.x.x @theusaf at the bottom right.
 
-6. Have fun with chat without the bots.
-<img src="https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/580b57fcd9996e24bc43c540.png" alt="twitch small" width="50" height="50"/>
+6. Have fun with chat without the bots. <img src="https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/580b57fcd9996e24bc43c540.png" alt="twitch small" width="50" height="50"/>
 * * *
 
 Features
