@@ -15,7 +15,7 @@ INSTALLATION
 
 
 
-1.  Make sure you have installeda script manager such as https://www.tampermonkey.net/ in your brower [(Chrome Extension)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+1.  Install a script manager such as https://www.tampermonkey.net/ in your brower [(Chrome Extension)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 2.  Install the script by from GitHub by clicking [here](https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/kahoot-antibot.user.js)
 
 4. When the tampermonkey extensions opens, press install, the tab should now close
