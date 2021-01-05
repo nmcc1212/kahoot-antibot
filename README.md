@@ -1,6 +1,5 @@
 
-<img src="https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/generic-email-header-1.jpg" alt="twitch banner" width="350" height="150"/>
-
+<img src="https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/generic-email-header-1.jpg" alt="twitch banner" width="350" height="150"/> <img src="https://github.com/nmcc1212/kahoot-antibot-for-streamers/raw/main/docs/4693389703691371032_1.png" alt="kahoot banner" width="350" height="150"/>
 Kahoot AntiBot
 ==============
 
